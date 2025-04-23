@@ -1,4 +1,4 @@
-# Amal Raj Portfolio
+# Rashid V Portfolio
 
 This is my personal portfolio repository serves as a showcase of my work, skills, and experiences as a Software Development 
 
